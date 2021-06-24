@@ -1,0 +1,2 @@
+# qskg
+easy miner
